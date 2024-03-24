@@ -1,0 +1,7 @@
+D:\College (SMT 2)\Classroom\Pemrograman\Pertemuan 3\classTaxi\classTaxi\bin\Debug\classTaxi.exe.config
+D:\College (SMT 2)\Classroom\Pemrograman\Pertemuan 3\classTaxi\classTaxi\bin\Debug\classTaxi.exe
+D:\College (SMT 2)\Classroom\Pemrograman\Pertemuan 3\classTaxi\classTaxi\bin\Debug\classTaxi.pdb
+D:\College (SMT 2)\Classroom\Pemrograman\Pertemuan 3\classTaxi\classTaxi\obj\Debug\classTaxi.csproj.AssemblyReference.cache
+D:\College (SMT 2)\Classroom\Pemrograman\Pertemuan 3\classTaxi\classTaxi\obj\Debug\classTaxi.csproj.CoreCompileInputs.cache
+D:\College (SMT 2)\Classroom\Pemrograman\Pertemuan 3\classTaxi\classTaxi\obj\Debug\classTaxi.exe
+D:\College (SMT 2)\Classroom\Pemrograman\Pertemuan 3\classTaxi\classTaxi\obj\Debug\classTaxi.pdb
